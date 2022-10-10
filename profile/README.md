@@ -1,6 +1,7 @@
 ## 날씨는_쿠름이 팀 경진대회 출품작 "쿠름이"
 ---
 성공회대학교 제 13회 IT미콘 경진대회 날씨는_쿠름이 팀 레포지토리 입니다.
+# http://skhuweather.me
 
 ## < 팀원 소개 >
 - 윤준석 ( 팀장, 서버, 백엔드(schoolNotice crawl), 기획, UI디자인 ) backpart_1 / 202214043 깃허브 아이디:junseok0304
@@ -17,3 +18,6 @@
 
 
 ---
+
+.me 도메인 2023년 9월 15일 까지 유효. NAMECHEAP 무료 도메인 1년 깃헙 학생팩 사용. 
+SSL 인증서는 github pages의 enforced https 사용하여 활성화 하였음. - 준석 -
