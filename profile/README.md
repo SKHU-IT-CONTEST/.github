@@ -13,5 +13,7 @@
 
 ![표지](https://user-images.githubusercontent.com/83647215/194799730-8f0e53b3-b564-485a-942a-a4efa96880d5.png)
 
+![작품개요 2-2](https://user-images.githubusercontent.com/83647215/194800091-15321669-3108-4760-b23e-62e338a599a2.png)
+
 
 ---
