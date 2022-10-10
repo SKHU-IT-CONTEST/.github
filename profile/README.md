@@ -6,8 +6,8 @@
 ## < 팀원 소개 >
 - 윤준석 ( 팀장, 서버, 백엔드(schoolNotice crawl), 기획, UI디자인 ) backpart_1 / 202214043 깃허브 아이디:junseok0304
 - 이예슬 ( 프론트엔드 ) frontpart_1 / 202012082 깃허브 아이디:yeaseul7
-- 최준혁 ( 프론트엔드, 캐릭터 디자인 ) frontpart_2 / 202214041 깃허브 아이디:nmmn1004
-- 유연주 ( 프론트엔드 ) frontpart_3 / 202014021 깃허브 아이디:yeonju054
+- 유연주 ( 프론트엔드 ) frontpart_2 / 202014021 깃허브 아이디:yeonju054
+- 최준혁 ( 프론트엔드, 캐릭터 디자인 ) frontpart_3 / 202214041 깃허브 아이디:nmmn1004
 - 황재현 ( 백엔드(weather.js) ) backpart_2 / 202014026 깃허브 아이디:ten0213
 
 ---
