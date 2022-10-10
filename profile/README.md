@@ -11,8 +11,7 @@
 
 ---
 
-
-![kurumimain](https://user-images.githubusercontent.com/83647215/194799297-712fe650-7b0b-451d-af6b-874276e62d9d.png)
+![표지](https://user-images.githubusercontent.com/83647215/194799730-8f0e53b3-b564-485a-942a-a4efa96880d5.png)
 
 
 ---
