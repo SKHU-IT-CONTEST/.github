@@ -16,8 +16,8 @@
 ![작품 요약](https://user-images.githubusercontent.com/83647215/195477586-014079b8-7dfb-4a06-8900-bb3dedbf3486.png)
 ![작품특징 1](https://user-images.githubusercontent.com/83647215/195477750-2ba74815-d9d0-4688-a0b7-e0876214dd32.png)
 
-
+자료 디자인 - 윤준석 -
 ---
 
 .me 도메인 2023년 9월 15일 까지 유효. NAMECHEAP 무료 도메인 1년 깃헙 학생팩 사용. 
-SSL 인증서는 github pages의 enforced https 사용하여 활성화 하였음. - 준석 -
+SSL 인증서는 github pages의 enforced https 사용하여 활성화 하였음. - 윤준석 - 
