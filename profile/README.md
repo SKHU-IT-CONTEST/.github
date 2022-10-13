@@ -15,6 +15,7 @@
 ![표지](https://user-images.githubusercontent.com/83647215/194799730-8f0e53b3-b564-485a-942a-a4efa96880d5.png)
 ![작품 요약](https://user-images.githubusercontent.com/83647215/195541668-770b138d-b75f-4ad0-a34e-bb72fac31d96.png)
 ![작품특징 1](https://user-images.githubusercontent.com/83647215/195477750-2ba74815-d9d0-4688-a0b7-e0876214dd32.png)
+<img width="831" alt="스크린샷 2022-10-13 오후 5 23 52" src="https://user-images.githubusercontent.com/83647215/195543183-bb8b5d0e-bf2a-4886-9ba3-a85e2f573f42.png">
 
 자료 디자인 - 윤준석 -
 ---
