@@ -13,7 +13,7 @@
 ---
 
 ![표지](https://user-images.githubusercontent.com/83647215/194799730-8f0e53b3-b564-485a-942a-a4efa96880d5.png)
-![작품 요약](https://user-images.githubusercontent.com/83647215/195477586-014079b8-7dfb-4a06-8900-bb3dedbf3486.png)
+![작품 요약](https://user-images.githubusercontent.com/83647215/195541668-770b138d-b75f-4ad0-a34e-bb72fac31d96.png)
 ![작품특징 1](https://user-images.githubusercontent.com/83647215/195477750-2ba74815-d9d0-4688-a0b7-e0876214dd32.png)
 
 자료 디자인 - 윤준석 -
